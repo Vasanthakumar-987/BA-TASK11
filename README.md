@@ -24,4 +24,4 @@ This project analyzes business sales data using Tableau Public.
 - CSV Dataset
 
 ## Author
-VASANTHA KUMAR R
+VASANTHAKUMAR R
